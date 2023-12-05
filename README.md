@@ -9,6 +9,7 @@ The system employs advanced collaborative filtering techniques to meticulously a
 
 ### Spotify Dataset
 Our model is meticulously trained on a vast Spotify dataset, guaranteeing a diverse and extensive collection of songs. This rich dataset enables the system to provide accurate and robust recommendations, catering to a wide range of musical tastes.
+Dataset Link:- https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset/
 
 ### Top 20 Song Recommendations
 Upon receiving a song name as input, the system generates a meticulously curated list of the top 20 recommended songs. This feature aims to elevate the user's music exploration by introducing them to tracks that align seamlessly with their musical preferences.
